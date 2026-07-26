@@ -17,4 +17,3 @@ $person = new Person();
 
 echo $person;
 
-?>
